@@ -1,0 +1,5 @@
+﻿  MineSweeper.cpp
+  playMineSweeper.cpp
+C:\Users\gmstn\source\repos\Findholl\playMineSweeper.cpp(19,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다...
+  Findholl.vcxproj -> C:\Users\gmstn\source\repos\Findholl\x64\Debug\Findholl.exe
